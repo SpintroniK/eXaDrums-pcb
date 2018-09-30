@@ -1,1 +1,3 @@
 # eXaDrums-pcb
+
+Components list to be added soon...
